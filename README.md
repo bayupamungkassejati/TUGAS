@@ -1,6 +1,6 @@
 # Deteksi-Warna
-NIM   : 123180176
-Nama  : Maulana Kurnia Fiqih Ainul Yaqin
+NIM : 123180165
+Nama: Bayu Pamungkas S
 
 tugas pertama SCPK yang berhubungan dengan deteksi warna pada gambar, deteksi warna ini menggunakan bahasa python dengan package numpy dan cv.
 
